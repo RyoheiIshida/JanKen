@@ -18,6 +18,3 @@ function play(playerHand){
     document.getElementById('result').textContent=`あなた：${playerHand} / コンピューター：${computerHand} -> ${result}`;
 }
 
-function sayHello(){
-    alert("こんにちは");
-}
